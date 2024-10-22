@@ -474,8 +474,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1875526873}
-        m_TargetAssemblyTypeName: LogicaBotones, Assembly-CSharp
-        m_MethodName: PantallaTitulo
+        m_TargetAssemblyTypeName: _LogicaBotones, Assembly-CSharp
+        m_MethodName: _PantallaTitulo
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -699,8 +699,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1875526873}
-        m_TargetAssemblyTypeName: LogicaBotones, Assembly-CSharp
-        m_MethodName: PantallaInicio
+        m_TargetAssemblyTypeName: _LogicaBotones, Assembly-CSharp
+        m_MethodName: _PantallaInicio
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1141,9 +1141,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1875526873}
+      - m_Target: {fileID: 1875526871}
         m_TargetAssemblyTypeName: LogicaBotones, Assembly-CSharp
-        m_MethodName: TutorialIntroduccion
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

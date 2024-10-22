@@ -14,6 +14,30 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Desarrollo-Ecodex/01-Escenas/TutorialIntroduccion.unity
     guid: 7cd8d7538f95a004482979ad76f63e34
+  - enabled: 1
+    path: Assets/Desarrollo-Ecodex/01-Escenas/Pantalla Titulo/ModoFull/Agradecimientos.unity
+    guid: b696d05c5a215f64f9a588168ce8794d
+  - enabled: 1
+    path: Assets/Desarrollo-Ecodex/01-Escenas/Pantalla Titulo/ModoFull/Bliblioteca.unity
+    guid: d6ca4138fc84eda49a0797150b2cc986
+  - enabled: 1
+    path: Assets/Desarrollo-Ecodex/01-Escenas/Pantalla Titulo/ModoFull/ComienzaTuAventura.unity
+    guid: c9e8eef14fd90f94ab37cf4730d93e19
+  - enabled: 1
+    path: Assets/Desarrollo-Ecodex/01-Escenas/Pantalla Titulo/ModoFull/ModoFull.unity
+    guid: e7e0ac4a850e6c94fbf08413cc4919a5
+  - enabled: 1
+    path: Assets/Desarrollo-Ecodex/01-Escenas/Pantalla Titulo/ModoFull/Mochila.unity
+    guid: 44675f6766cfd0f4a9b26b80a1f26fa6
+  - enabled: 1
+    path: Assets/Desarrollo-Ecodex/01-Escenas/Pantalla Titulo/ModoFull/Opciones.unity
+    guid: 2fc0abb0d635c8345836c33e76d187ef
+  - enabled: 1
+    path: Assets/Desarrollo-Ecodex/01-Escenas/Pantalla Titulo/ModoFull/Salir.unity
+    guid: 1d98aceef77b0384a82743a7f24713d6
+  - enabled: 1
+    path: Assets/Desarrollo-Ecodex/01-Escenas/Pantalla Titulo/ModoFull/SobreEcoDex.unity
+    guid: 19d5af272d55fdc4d82905dc0d001dad
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 8b58b548ece7ab54f941414631982b35,
       type: 2}
